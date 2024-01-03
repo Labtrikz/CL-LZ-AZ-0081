@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fcfcfc;
+    font-family: Arial, sans-serif;
+    color: #14233C;
+    height: 100vh; 
+    margin: 0; 
+}
+
+.logo {
+    width: 30rem;
+}
+
+.subtext {
+    border-top: 2px solid #14233C; /* Adjust the color and thickness as needed */
+    padding: 0px 100px;
+    margin-top: 30px;
+}
+
+h2 {    
+    font-weight: 400;
+    font-size: 2rem;
+   
+}
